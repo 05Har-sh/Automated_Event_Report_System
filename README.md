@@ -26,11 +26,3 @@
       Your report will be generated using this format:<br>
           example- Event Name = {{ event.event_name }}<br>
 📌 Ensure event_template.docx is present in the same folder!<br>
-
-🏆 Credits<br>
-Ved Patil<br>
-Pushpak Aher<br>
-Tejas Chandankar<br>
-Suryaprakash Yadav<br>
-Harsh Pardeshi<br>
-Mentor- Prof. Nilam Khairnar<br>
